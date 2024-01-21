@@ -1,4 +1,3 @@
-## vlgi pivi kkus kpdo
 ## vlgipivikkuskpdo
 
 import requests
