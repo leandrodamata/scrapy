@@ -1,4 +1,4 @@
-First of all, the reaseon I created this, was because I wanted to help my girlfriend with this sneaker she wanted to buy but thought it was expensive,
+First of all, the reason I created this, was because I wanted to help my girlfriend with this sneaker she wanted to buy but thought it was expensive,
 So I created this program to track the price of the sneaker and show when it's bellow a specific price.
 
 I build this using Python and the requests, smtplib, email.message and ssl libraries
