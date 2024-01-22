@@ -25,7 +25,10 @@ def send_email(product_name, product_price, receiver_email):
 
     sender = 'pythonscrapydamata@gmail.com'
     password = 'vlgipivikkuskpdo'
-    receiver = 'vini.damatta17@gmail.com'
+    receiver = 'Inset your email here'
+
+    if receiver == "Insert your email here":
+        print("Please put your e-mail to test the code")
 
     context = ssl.create_default_context()
 
@@ -68,4 +71,5 @@ for c in data2["colorOptions"]:
         break
 
 if productprice1 and productprice1 < 600:
-    send_email(product1["name"], productprice1, 'vini.damatta17@gmail.com')
+    send_email(product1["name"], productprice1, 'Insert your e-mail here')
+

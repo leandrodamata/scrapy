@@ -1,6 +1,12 @@
 First of all, the reason I created this, was because I wanted to help my girlfriend with this sneaker she wanted to buy but thought it was expensive,
 So I created this program to track the price of the sneaker and show when it's bellow a specific price.
 
+Here's how to use it
+
+1) change the code to your e-mail: 
+in receiver variable, where is written "Insert your email here" put your e-mail to test, and in the last line, where is written "Insert your email here", write your e-mail
+2) run the code
+
 I build this using Python and the requests, smtplib, email.message and ssl libraries
 
 The program get's an user agent to use with the requests of the url of the sneakers.
